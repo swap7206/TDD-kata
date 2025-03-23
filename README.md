@@ -19,4 +19,4 @@ A **TDD Kata** is a coding exercise specifically designed to help developers pra
 > **TDD isn't just about writing tests; it's about writing code that is testable and, therefore, more robust and easier to maintain.**
 
 ### Getting Started
-1. Choose a **TDD Kata** (e.g., String Calculator, FizzBuzz, Bowling Game).
+1. String Calculator TDD Kata.
